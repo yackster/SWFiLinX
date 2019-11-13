@@ -1,2 +1,4 @@
-# SWFiLinX
-Netstreams control software for Digilinx
+# SWF iLinX - Netstreams control software for Digilinx
+This open-source code from our repository holder is an inline augment to a previous app that was only written for 32-bit IOS environments. SWF iLinX was derived from scratch via SWIFT code. It is designed to run on IOS Ipad and controls Netstreams(tm) Digilinx(tm) audio systems. The previous app developer had released the 32-bit code onto Github as an open-source compilation for other developers to formalize a 64-bit version.
+This version has some limits but is controlling the audio features with excellent results. This new app has been tested on a live system with iPod Dock, Request Media Servers. It plays audio with no control for radio and other legacy or non-controllable devices such as input from phones/tablets. Also, this version is priced at FREE ($00.00) with an open-source push for other developers to contribute and improve the app for the best UI experience with the now out of production audio system.
+The sponsor is grateful for any open-source contributions and plans to maintain contact support for an indefinite time or until the hardware components become obsolete as they are no longer manufactured. The original hardware company has been sold and dismantled after that company’s buyer mostly only further developed the IP.
