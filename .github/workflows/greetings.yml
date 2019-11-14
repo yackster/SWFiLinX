@@ -1,0 +1,13 @@
+name: Greetings for SWF iLinX. Thank you for contributing.
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'SWF iLinX Open-Source Project'' first issue'
+        pr-message: 'Welcome and thank you again'' first pr'
