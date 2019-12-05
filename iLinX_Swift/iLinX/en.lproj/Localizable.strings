@@ -1,0 +1,101 @@
+/* 
+  Localizable.strings
+  iLinX
+
+  Created by Vikas Ninawe on 13/12/18.
+  Copyright © 2018 Redbytes Software. All rights reserved.
+*/
+
+// App Name
+
+"ilinx" = "iLinX";
+
+// Messages
+
+"errorFound" = "Error found!";
+"noIpAndSubnet" = "No IP address and Subnet mask found! \n Please connect to same network as of NetStreams system";
+"selectAudioToPlay" = "Please select audio to play";
+"fetching" = "Fetching...";
+"wantToPrintLog" = "Do you want to print log?";
+"creatingAndLoading" = "Creating and Loading...!";
+"autoDiscoveryFailed" = "Auto Discovery failed. Please check if your mobile is on same network as of Netstream's system";
+"noRoomsFound" = "No rooms found!";
+"xmlMappingToModelFailed" = "XML-JSON mapping to data model failed...!";
+"xmlToJsonConversionFailed" = "XML to JSON conversion failed...!";
+"dataToXmlConversionFailed" = "NetStream system response data to XML conversion failed...!";
+"invalidIPAddress" = "IP Address not found, please try again!";//"Invalid IP Address found!";
+"xmlDownloadFailed" = "XML download from NetStream system failed, may be IP Address is invalid!";
+"strToDataConversionFailed" = "String to data convesion failed...!";
+"automatically" = "Automatically";
+"manually" = "Manually";
+"ipaddress" = "IP Address";
+"invalidipaddress" = "Invalid IP Address, please enter correct one.";
+"mailnotconfigured" = "Email is not configured";
+"crashreportsubject" = "iLinX - Crash report";
+"crashreportbody" = "This is crash report for iLinX application";
+"selectinputsourcefirst" = "Please select input source first!";
+"noFavouriteAvail" = "No favourite available!";
+
+// Button titles
+
+"ok" = "Ok";
+"cancel" = "Cancel";
+"connect" = "Connect";
+"connected" = "Connected!";
+"restore" = "Restore";
+"print" = "Print";
+"close" = "Close";
+"yes" = "Yes";
+"no" = "No";
+"join" = "Join";
+"leave" = "Leave";
+"create" = "Create";
+"poweroff" = "Power Off";
+
+
+// Labels title
+
+"unknown" = "Unknown";
+"audiovideo" = "Audio/Video";
+"favourite" = "Favourite";
+"audiosetting" = "Audio Setting";
+"multirooms" = "Multi Rooms";
+"media" = "Media";
+"presets" = "Presets";
+"song" = "Song:";
+"album" = "Album:";
+"artist" = "Artist:";
+"next" = "Next:";
+"duration" = "Duration:";
+"unspecified" = "Unspecified";
+"balance" = "Balance";
+"bass" = "Bass";
+"trouble" = "Trouble";
+"loud" = "Loud";
+"band" = "Band";
+"log" = "Log";
+"setting" = "Settings";
+"connectedtoip" = "Connected to IP:";
+"directiontouse" = "Direction to use: ";
+"aboutus" = "About Us:";
+"contactus" = "Contact Us:";
+"multiroom" = "Multiroom";
+
+
+// Presets
+
+"loudness" = "Loudness";
+"custom" = "Custom";
+"flat" = "Flat";
+"rock" = "Rock";
+"soft_rock" = "Soft Rock";
+"jazz" = "Jazz";
+"classical" = "Classical";
+"dance" = "Dance";
+"pop" = "Pop";
+"soft" = "Soft";
+"hard" = "Hard";
+"party" = "Party";
+"vocal" = "Vocal";
+"hip_hop" = "Hip Hop";
+"dialog" = "Dialog";

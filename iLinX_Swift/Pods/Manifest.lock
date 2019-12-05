@@ -1,0 +1,30 @@
+PODS:
+  - CocoaAsyncSocket (7.6.3)
+  - MBProgressHUD (1.0.0)
+  - Queuer (2.1.0)
+  - SDWebImage (4.4.7):
+    - SDWebImage/Core (= 4.4.7)
+  - SDWebImage/Core (4.4.7)
+
+DEPENDENCIES:
+  - CocoaAsyncSocket
+  - MBProgressHUD (~> 1.0.0)
+  - Queuer
+  - SDWebImage (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CocoaAsyncSocket
+    - MBProgressHUD
+    - Queuer
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: eafaa68a7e0ec99ead0a7b35015e0bf25d2c8987
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  Queuer: db8c76d75902504f0b4c460b641ef6455551330d
+  SDWebImage: c10d14a8883ebd89664f02a422006f66a85c0c5d
+
+PODFILE CHECKSUM: 4c2890f4cb8ce676a784219ba4695749f602f8fe
+
+COCOAPODS: 1.5.3
